@@ -7,6 +7,7 @@
 | [0283-move-zeroes](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0283-move-zeroes) |
 | [0861-flipping-an-image](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0861-flipping-an-image) |
 | [1677-matrix-diagonal-sum](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1677-matrix-diagonal-sum) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Matrix
 |  |
 | ------- |
