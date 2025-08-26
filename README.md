@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0202-happy-number](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0283-move-zeroes) |
 | [0861-flipping-an-image](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0908-middle-of-the-linked-list) |
@@ -44,4 +45,12 @@
 |  |
 | ------- |
 | [3195-separate-black-and-white-balls](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3195-separate-black-and-white-balls) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0202-happy-number) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
