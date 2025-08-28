@@ -8,11 +8,13 @@
 | [0861-flipping-an-image](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0861-flipping-an-image) |
 | [1677-matrix-diagonal-sum](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1677-matrix-diagonal-sum) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3748-sort-matrix-by-diagonals) |
 ## Matrix
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0861-flipping-an-image) |
 | [1677-matrix-diagonal-sum](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1677-matrix-diagonal-sum) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3748-sort-matrix-by-diagonals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,4 +61,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0202-happy-number) |
+## Sorting
+|  |
+| ------- |
+| [3748-sort-matrix-by-diagonals](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3748-sort-matrix-by-diagonals) |
 <!---LeetCode Topics End-->
