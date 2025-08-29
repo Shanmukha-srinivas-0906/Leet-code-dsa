@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0048-rotate-image) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0283-move-zeroes) |
 | [0861-flipping-an-image](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0861-flipping-an-image) |
@@ -13,6 +14,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0048-rotate-image) |
 | [0861-flipping-an-image](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0861-flipping-an-image) |
 | [1677-matrix-diagonal-sum](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1677-matrix-diagonal-sum) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3748-sort-matrix-by-diagonals) |
@@ -62,6 +64,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0202-happy-number) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Sorting
