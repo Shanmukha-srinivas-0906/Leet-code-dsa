@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0048-rotate-image) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0283-move-zeroes) |
@@ -14,6 +15,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0048-rotate-image) |
 | [0861-flipping-an-image](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0861-flipping-an-image) |
 | [1677-matrix-diagonal-sum](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1677-matrix-diagonal-sum) |
@@ -58,6 +60,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0202-happy-number) |
