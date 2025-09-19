@@ -36,6 +36,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0342-power-of-four) |
 | [0861-flipping-an-image](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0861-flipping-an-image) |
 ## Simulation
 |  |
@@ -71,6 +72,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0202-happy-number) |
+| [0342-power-of-four](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0342-power-of-four) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3830-find-closest-person](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3830-find-closest-person) |
 ## Sorting
@@ -85,4 +87,8 @@
 |  |
 | ------- |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
