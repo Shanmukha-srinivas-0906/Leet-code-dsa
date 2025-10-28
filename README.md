@@ -103,6 +103,7 @@
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0595-big-countries) |
 | [1161-project-employees-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1161-project-employees-i) |
 | [1338-queries-quality-and-percentage](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1338-queries-quality-and-percentage) |
 | [1415-students-and-examinations](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1415-students-and-examinations) |
