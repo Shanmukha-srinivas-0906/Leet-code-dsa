@@ -106,6 +106,7 @@
 | [0595-big-countries](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0595-big-countries) |
 | [1161-project-employees-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1161-project-employees-i) |
 | [1258-article-views-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1258-article-views-i) |
+| [1317-monthly-transactions-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1338-queries-quality-and-percentage) |
 | [1415-students-and-examinations](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1415-students-and-examinations) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1773-percentage-of-users-attended-a-contest) |
