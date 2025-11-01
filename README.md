@@ -12,6 +12,7 @@
 | [1677-matrix-diagonal-sum](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1677-matrix-diagonal-sum) |
 | [2169-simple-bank-system](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/2169-simple-bank-system) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3748-sort-matrix-by-diagonals) |
 ## Matrix
 |  |
@@ -52,6 +53,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
 | ------- |
@@ -69,6 +71,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0202-happy-number) |
 | [2169-simple-bank-system](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/2169-simple-bank-system) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
