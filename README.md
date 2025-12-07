@@ -121,6 +121,7 @@
 | [1258-article-views-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1258-article-views-i) |
 | [1317-monthly-transactions-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1338-queries-quality-and-percentage) |
+| [1341-movie-rating](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1341-movie-rating) |
 | [1390-average-selling-price](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1415-students-and-examinations) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1773-percentage-of-users-attended-a-contest) |
