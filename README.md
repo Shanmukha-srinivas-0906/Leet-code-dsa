@@ -9,6 +9,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0283-move-zeroes) |
 | [0861-flipping-an-image](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0861-flipping-an-image) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1677-matrix-diagonal-sum) |
 | [2169-simple-bank-system](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/2169-simple-bank-system) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -20,6 +21,7 @@
 | [0036-valid-sudoku](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0048-rotate-image) |
 | [0861-flipping-an-image](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0861-flipping-an-image) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1677-matrix-diagonal-sum) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3748-sort-matrix-by-diagonals) |
 ## Two Pointers
@@ -93,6 +95,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Counting
 |  |
 | ------- |
