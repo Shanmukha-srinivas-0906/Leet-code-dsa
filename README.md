@@ -6,6 +6,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0283-move-zeroes) |
 | [0861-flipping-an-image](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0861-flipping-an-image) |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0202-happy-number) |
 | [0342-power-of-four](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0342-power-of-four) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1523-count-odd-numbers-in-an-interval-range) |
