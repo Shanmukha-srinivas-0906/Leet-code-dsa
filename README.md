@@ -18,6 +18,7 @@
 | [1975-maximum-matrix-sum](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2169-simple-bank-system](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/2169-simple-bank-system) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3748-sort-matrix-by-diagonals) |
@@ -105,6 +106,7 @@
 | [1200-minimum-absolute-difference](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3748-sort-matrix-by-diagonals) |
 ## Binary Search
 |  |
@@ -152,4 +154,8 @@
 |  |
 | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Enumeration
+|  |
+| ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 <!---LeetCode Topics End-->
