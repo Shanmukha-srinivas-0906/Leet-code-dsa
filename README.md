@@ -21,6 +21,7 @@
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3637-trionic-array-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3637-trionic-array-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3748-sort-matrix-by-diagonals) |
 ## Matrix
 |  |
