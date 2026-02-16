@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0066-plus-one) |
@@ -84,6 +85,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0142-linked-list-cycle-ii) |
