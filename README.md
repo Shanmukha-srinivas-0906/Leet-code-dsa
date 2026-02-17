@@ -8,6 +8,7 @@
 | [0036-valid-sudoku](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0283-move-zeroes) |
 | [0861-flipping-an-image](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0861-flipping-an-image) |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0151-reverse-words-in-a-string) |
@@ -108,6 +110,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0075-sort-colors) |
 | [1200-minimum-absolute-difference](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
