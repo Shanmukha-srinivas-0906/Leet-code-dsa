@@ -10,6 +10,7 @@
 | [0066-plus-one](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0283-move-zeroes) |
 | [0861-flipping-an-image](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0861-flipping-an-image) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -91,6 +92,7 @@
 | [0036-valid-sudoku](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0202-happy-number) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2169-simple-bank-system](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/2169-simple-bank-system) |
@@ -111,6 +113,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0169-majority-element) |
 | [1200-minimum-absolute-difference](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -124,6 +127,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0169-majority-element) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Recursion
 |  |
@@ -166,4 +170,8 @@
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
