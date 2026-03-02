@@ -9,6 +9,7 @@
 | [0048-rotate-image](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0283-move-zeroes) |
@@ -174,4 +175,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
