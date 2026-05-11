@@ -22,6 +22,7 @@
 | [1975-maximum-matrix-sum](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2169-simple-bank-system](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/2169-simple-bank-system) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/2553-separate-the-digits-in-an-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3379-transformed-array](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3379-transformed-array) |
@@ -65,6 +66,7 @@
 | ------- |
 | [0861-flipping-an-image](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0861-flipping-an-image) |
 | [2169-simple-bank-system](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/2169-simple-bank-system) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/2553-separate-the-digits-in-an-array) |
 | [3379-transformed-array](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3379-transformed-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Linked List
