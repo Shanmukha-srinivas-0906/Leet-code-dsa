@@ -30,6 +30,7 @@
 | [3637-trionic-array-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3637-trionic-array-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3748-sort-matrix-by-diagonals) |
+| [3838-weighted-word-mapping](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3838-weighted-word-mapping) |
 ## Matrix
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/2553-separate-the-digits-in-an-array) |
 | [3379-transformed-array](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3379-transformed-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3838-weighted-word-mapping](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3838-weighted-word-mapping) |
 ## Linked List
 |  |
 | ------- |
@@ -83,6 +85,7 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [3195-separate-black-and-white-balls](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3195-separate-black-and-white-balls) |
+| [3838-weighted-word-mapping](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
