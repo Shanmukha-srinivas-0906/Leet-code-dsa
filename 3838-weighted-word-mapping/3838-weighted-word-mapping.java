@@ -1,0 +1,13 @@
+class Solution {
+    public String mapWordWeights(String[] words, int[] weights) {
+        StringBuilder res = new StringBuilder(words.length);
+        for(String w : words){
+            int sum = 0;
+            for(char ch : w.toCharArray()){
+                sum += weights[ch - 'a'];
+            }
+            res.append((char)('z' - (sum%26)));
+        }
+        return res.toString();
+    }
+}
