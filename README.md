@@ -55,6 +55,7 @@
 | [0861-flipping-an-image](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0908-middle-of-the-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3195-separate-black-and-white-balls](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3195-separate-black-and-white-balls) |
 ## Bit Manipulation
@@ -78,6 +79,7 @@
 | [0141-linked-list-cycle](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0908-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
