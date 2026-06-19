@@ -19,6 +19,7 @@
 | [1200-minimum-absolute-difference](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1200-minimum-absolute-difference) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1677-matrix-diagonal-sum) |
+| [1732-find-the-highest-altitude](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1732-find-the-highest-altitude) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -195,4 +196,5 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0238-product-of-array-except-self) |
+| [1732-find-the-highest-altitude](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
