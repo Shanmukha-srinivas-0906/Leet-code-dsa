@@ -1,16 +1,15 @@
 class Solution {
     public long sumAndMultiply(int n) {
-        int temp = n;
         long sum = 0;
         long carry = 1;
         long x = 0;
-        while(temp > 0){
-            if(temp%10 != 0){
-                sum += temp%10;
-                x += (temp%10) * carry;
+        while(n > 0){
+            if(n%10 != 0){
+                sum += n%10;
+                x += (n%10) * carry;
                 carry *= 10;
             }
-            temp = temp/10;
+            n = n/10;
         }
         return sum*x;
     }
