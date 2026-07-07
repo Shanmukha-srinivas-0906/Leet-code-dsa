@@ -125,6 +125,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3830-find-closest-person](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3830-find-closest-person) |
 ## Sorting
 |  |
