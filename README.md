@@ -93,6 +93,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3195-separate-black-and-white-balls](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3195-separate-black-and-white-balls) |
 | [3612-process-string-with-special-operations-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3612-process-string-with-special-operations-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
@@ -126,6 +127,7 @@
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3830-find-closest-person](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3830-find-closest-person) |
 ## Sorting
 |  |
@@ -202,4 +204,5 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0238-product-of-array-except-self) |
 | [1732-find-the-highest-altitude](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1732-find-the-highest-altitude) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
