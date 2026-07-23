@@ -30,6 +30,7 @@
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3379-transformed-array](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3379-transformed-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3637-trionic-array-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3637-trionic-array-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3748-sort-matrix-by-diagonals) |
@@ -66,6 +67,7 @@
 | ------- |
 | [0342-power-of-four](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0342-power-of-four) |
 | [0861-flipping-an-image](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0861-flipping-an-image) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Simulation
 |  |
 | ------- |
@@ -126,6 +128,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
