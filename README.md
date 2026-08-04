@@ -34,6 +34,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3637-trionic-array-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3637-trionic-array-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3731-find-missing-elements](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3731-find-missing-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3748-sort-matrix-by-diagonals) |
 | [3838-weighted-word-mapping](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3838-weighted-word-mapping) |
 ## Matrix
@@ -117,6 +118,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2169-simple-bank-system](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/2169-simple-bank-system) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3731-find-missing-elements](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3731-find-missing-elements) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -144,6 +146,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3731-find-missing-elements](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3731-find-missing-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3748-sort-matrix-by-diagonals) |
 ## Binary Search
 |  |
