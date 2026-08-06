@@ -131,6 +131,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -199,6 +200,7 @@
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Divide and Conquer
 |  |
 | ------- |
