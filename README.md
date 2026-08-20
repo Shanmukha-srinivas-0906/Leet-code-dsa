@@ -28,6 +28,7 @@
 | [2169-simple-bank-system](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/2169-simple-bank-system) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/2553-separate-the-digits-in-an-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3379-transformed-array](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3379-transformed-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -76,6 +77,7 @@
 | [0861-flipping-an-image](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0861-flipping-an-image) |
 | [2169-simple-bank-system](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/2169-simple-bank-system) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/2553-separate-the-digits-in-an-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3379-transformed-array](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3379-transformed-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3612-process-string-with-special-operations-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3653-xor-after-range-multiplication-queries-i) |
