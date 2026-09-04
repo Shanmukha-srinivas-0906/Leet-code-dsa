@@ -40,6 +40,7 @@
 | [3838-weighted-word-mapping](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3903-smallest-stable-index-i) |
 ## Matrix
 |  |
 | ------- |
@@ -222,6 +223,7 @@
 | [0238-product-of-array-except-self](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0238-product-of-array-except-self) |
 | [1732-find-the-highest-altitude](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1732-find-the-highest-altitude) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3903-smallest-stable-index-i) |
 ## Number Theory
 |  |
 | ------- |
