@@ -99,6 +99,7 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0151-reverse-words-in-a-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3195-separate-black-and-white-balls](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3195-separate-black-and-white-balls) |
 | [3612-process-string-with-special-operations-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3612-process-string-with-special-operations-i) |
@@ -233,4 +234,12 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
