@@ -8,7 +8,7 @@ class Solution {
                result[i] = x%2;
                x++;
             }
-            else if (ch == ')' && i<result.length){
+            else if (ch == ')' ){
                 x--;
                 result[i] = x%2;
                 
