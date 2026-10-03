@@ -99,6 +99,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0032-longest-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -220,6 +221,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0032-longest-valid-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Prefix Sum
 |  |
@@ -240,12 +242,14 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
