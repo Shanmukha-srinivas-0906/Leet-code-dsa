@@ -101,6 +101,7 @@
 | [0020-valid-parentheses](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0032-longest-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0151-reverse-words-in-a-string) |
+| [0678-valid-parenthesis-string](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -112,6 +113,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0678-valid-parenthesis-string) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1975-maximum-matrix-sum) |
 | [3195-separate-black-and-white-balls](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3195-separate-black-and-white-balls) |
@@ -223,6 +225,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0032-longest-valid-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0678-valid-parenthesis-string](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0678-valid-parenthesis-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -243,6 +246,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -250,6 +254,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
