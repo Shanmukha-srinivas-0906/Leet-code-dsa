@@ -27,6 +27,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2169-simple-bank-system](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/2169-simple-bank-system) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/2553-separate-the-digits-in-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -213,6 +214,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Divide and Conquer
