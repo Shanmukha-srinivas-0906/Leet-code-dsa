@@ -118,6 +118,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1975-maximum-matrix-sum) |
 | [3195-separate-black-and-white-balls](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3195-separate-black-and-white-balls) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -146,6 +147,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3830-find-closest-person](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3830-find-closest-person) |
