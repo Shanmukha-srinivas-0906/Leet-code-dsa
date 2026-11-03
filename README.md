@@ -37,6 +37,7 @@
 | [3637-trionic-array-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3637-trionic-array-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3731-find-missing-elements](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3748-sort-matrix-by-diagonals) |
 | [3838-weighted-word-mapping](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3875-construct-uniform-parity-array-i) |
@@ -148,6 +149,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3830-find-closest-person](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3830-find-closest-person) |
