@@ -81,6 +81,7 @@
 | ------- |
 | [0861-flipping-an-image](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0861-flipping-an-image) |
 | [2169-simple-bank-system](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/2169-simple-bank-system) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3379-transformed-array](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3379-transformed-array) |
@@ -107,6 +108,7 @@
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3195-separate-black-and-white-balls](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3195-separate-black-and-white-balls) |
 | [3612-process-string-with-special-operations-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3612-process-string-with-special-operations-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
