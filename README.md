@@ -18,6 +18,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1200-minimum-absolute-difference](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1200-minimum-absolute-difference) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1352-product-of-the-last-k-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1677-matrix-diagonal-sum](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1677-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1732-find-the-highest-altitude) |
@@ -144,6 +145,7 @@
 | [0202-happy-number](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0202-happy-number) |
 | [0342-power-of-four](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0342-power-of-four) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1352-product-of-the-last-k-numbers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -187,6 +189,7 @@
 ## Design
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1352-product-of-the-last-k-numbers) |
 | [2169-simple-bank-system](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/2169-simple-bank-system) |
 ## Database
 |  |
@@ -238,6 +241,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0238-product-of-array-except-self) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1352-product-of-the-last-k-numbers) |
 | [1732-find-the-highest-altitude](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1732-find-the-highest-altitude) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/3903-smallest-stable-index-i) |
@@ -265,4 +269,8 @@
 | [0678-valid-parenthesis-string](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shanmukha-srinivas-0906/Leet-code-dsa/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
